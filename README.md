@@ -19,6 +19,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [BlackBabun](https://github.com/BlackBabun/blackbabun) - Instalador para ponerle esteroides a babun
 * [NetDB.io](http://www.netdb.io) - IoT Search Engine
 * [MagSpoofPI](https://github.com/salmg/MagSpoofPI) - MagSpoof for Raspberry PI GPIO
+* [CodexGigas](https://github.com/codexgigassys/) - CodexGigas malware DNA profiling search engine discovers malware patterns and characteristics. 
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
