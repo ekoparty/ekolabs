@@ -27,6 +27,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [pija](https://github.com/alcuadrado/pija) - Pornographic Images Jacking Algorithm
 * [memrepl](https://github.com/agustingianni/memrepl) - Memory inspection REPL interface
 * [netifera](https://github.com/netifera/netifera) - Open Source Network Security Platform
+* [IDASynergy](https://github.com/CubicaLabs/IDASynergy) - A combination of an IDAPython Plugin and a control version system that result in a new reverse engineering collaborative addon for IDA Pro
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
