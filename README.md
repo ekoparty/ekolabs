@@ -1,5 +1,4 @@
-Coleccion de herramientas de seguridad desarrolladas en Latino America
-Estas pueden o no haber sida presentadas en ekolabs 
+Colección de herramientas de seguridad desarrolladas en Latino America.
 
 * [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework
 * [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
