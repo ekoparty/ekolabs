@@ -26,6 +26,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [Hieroglyphy](https://github.com/alcuadrado/hieroglyphy) - Transform any javascript code to an equivalent sequence of ()[]{}!+ characters that runs in the browser
 * [pija](https://github.com/alcuadrado/pija) - Pornographic Images Jacking Algorithm
 * [memrepl](https://github.com/agustingianni/memrepl) - Memory inspection REPL interface
+* [netifera](https://github.com/netifera/netifera) - Open Source Network Security Platform
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
