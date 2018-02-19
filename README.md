@@ -31,6 +31,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [kscope](https://github.com/ortegaalfredo/kscope) - HDD Resonance script
 * [Trape](https://github.com/boxug/trape) - People tracker on the Internet: Learn to track the world, to avoid being traced
 * [Panoptic](https://github.com/lightos/Panoptic) - It automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.
+* [DAWF](https://www.dragonjar.org/dawf-dragonjar-automatic-windows-forensic.xhtml) - Integra diferentes utilidades que permiten automatizar la extracción de evidencia forense en Windows
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
