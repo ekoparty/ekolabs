@@ -21,6 +21,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [MagSpoofPI](https://github.com/salmg/MagSpoofPI) - MagSpoof for Raspberry PI GPIO
 * [CodexGigas](https://github.com/codexgigassys/) - CodexGigas malware DNA profiling search engine discovers malware patterns and characteristics. 
 * [CBM](https://github.com/UnaPibaGeek/CBM) - Car Backdoor Maker
+* [tracenet](https://github.com/alguien-gh/tracenet) - Network range discovery tool
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
