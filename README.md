@@ -25,6 +25,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [The Mole](https://github.com/tiankonguse/themole) - Automatic SQL Injection Exploitation Tool
 * [Hieroglyphy](https://github.com/alcuadrado/hieroglyphy) - Transform any javascript code to an equivalent sequence of ()[]{}!+ characters that runs in the browser
 * [pija](https://github.com/alcuadrado/pija) - Pornographic Images Jacking Algorithm
+* [memrepl](https://github.com/agustingianni/memrepl) - Memory inspection REPL interface
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
