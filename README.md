@@ -22,6 +22,9 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [CodexGigas](https://github.com/codexgigassys/) - CodexGigas malware DNA profiling search engine discovers malware patterns and characteristics. 
 * [CBM](https://github.com/UnaPibaGeek/CBM) - Car Backdoor Maker
 * [tracenet](https://github.com/alguien-gh/tracenet) - Network range discovery tool
+* [The Mole](https://github.com/tiankonguse/themole) - Automatic SQL Injection Exploitation Tool
+* [Hieroglyphy](https://github.com/alcuadrado/hieroglyphy) - Transform any javascript code to an equivalent sequence of ()[]{}!+ characters that runs in the browser
+* [pija](https://github.com/alcuadrado/pija) - Pornographic Images Jacking Algorithm
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
