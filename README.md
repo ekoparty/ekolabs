@@ -32,6 +32,10 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [Trape](https://github.com/boxug/trape) - People tracker on the Internet: Learn to track the world, to avoid being traced
 * [Panoptic](https://github.com/lightos/Panoptic) - It automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.
 * [DAWF](https://www.dragonjar.org/dawf-dragonjar-automatic-windows-forensic.xhtml) - Integra diferentes utilidades que permiten automatizar la extracción de evidencia forense en Windows
+* [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+* [WinAppDbg](https://github.com/MarioVilas/winappdbg) - Python module allows developers to quickly code instrumentation scripts in Python under a Windows environment.
+* [impacket](https://github.com/CoreSecurity/impacket) - Impacket is a collection of Python classes for working with network protocols.
+* [BARF](https://github.com/programa-stic/barf-project) - A multiplatform open source Binary Analysis and Reverse engineering Framework
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
