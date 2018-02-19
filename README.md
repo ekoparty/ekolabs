@@ -18,6 +18,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [Sapyto](https://packetstormsecurity.com/files/55636/sapyto.tgz.html) - sapyto is the first public framework designed to carry out penetration tests over SAP R/3 deployments. 
 * [BlackBabun](https://github.com/BlackBabun/blackbabun) - Instalador para ponerle esteroides a babun
 * [NetDB.io](http://www.netdb.io) - IoT Search Engine
+* [MagSpoofPI](https://github.com/salmg/MagSpoofPI) - MagSpoof for Raspberry PI GPIO
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
