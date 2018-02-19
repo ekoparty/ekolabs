@@ -37,6 +37,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework
 * [nimbostratus](https://github.com/andresriancho/nimbostratus) - Tools for fingerprinting and exploiting Amazon cloud infrastructures
 * [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
+* [pig](https://github.com/Ernesto-Alvarez/pig) - Automatic passive IP information gathering tool
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
