@@ -38,6 +38,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [nimbostratus](https://github.com/andresriancho/nimbostratus) - Tools for fingerprinting and exploiting Amazon cloud infrastructures
 * [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
 * [pig](https://github.com/Ernesto-Alvarez/pig) - Automatic passive IP information gathering tool
+* [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
