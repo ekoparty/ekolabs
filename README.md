@@ -1,7 +1,5 @@
 Colección de herramientas de seguridad desarrolladas en Latino America.
 
-* [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework
-* [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
 * [faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform
 * [evilgrade](https://github.com/infobyte/evilgrade) - The update explotation framework 
 * [distro_checker](https://github.com/infobyte/distro_checker) - Cross Distribution Exploit Testing
@@ -36,6 +34,9 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [WinAppDbg](https://github.com/MarioVilas/winappdbg) - Python module allows developers to quickly code instrumentation scripts in Python under a Windows environment.
 * [impacket](https://github.com/CoreSecurity/impacket) - Impacket is a collection of Python classes for working with network protocols.
 * [BARF](https://github.com/programa-stic/barf-project) - A multiplatform open source Binary Analysis and Reverse engineering Framework
+* [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework
+* [nimbostratus](https://github.com/andresriancho/nimbostratus) - Tools for fingerprinting and exploiting Amazon cloud infrastructures
+* [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
