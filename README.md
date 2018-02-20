@@ -39,6 +39,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
 * [pig](https://github.com/Ernesto-Alvarez/pig) - Automatic passive IP information gathering tool
 * [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
+* [genpasswd](http://genpasswd.js.org/) - Generate strong and deterministic passwords using real cryptography
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
