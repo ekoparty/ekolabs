@@ -36,7 +36,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [BARF](https://github.com/programa-stic/barf-project) - A multiplatform open source Binary Analysis and Reverse engineering Framework
 * [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework
 * [nimbostratus](https://github.com/andresriancho/nimbostratus) - Tools for fingerprinting and exploiting Amazon cloud infrastructures
-* [ExploitPack](http://exploitpack.com/) - Graphical tool for penetration testing with a bunch of exploits
+* [ExploitPack](https://github.com/juansacco/exploitpack) - Graphical tool for penetration testing with a bunch of exploits
 * [pig](https://github.com/Ernesto-Alvarez/pig) - Automatic passive IP information gathering tool
 * [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 * [pev](https://github.com/merces/pev) - The PE file analysis toolkit
