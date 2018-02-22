@@ -27,6 +27,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [netifera](https://github.com/netifera/netifera) - Open Source Network Security Platform
 * [IDASynergy](https://github.com/CubicaLabs/IDASynergy) - A combination of an IDAPython Plugin and a control version system that result in a new reverse engineering collaborative addon for IDA Pro
 * [kscope](https://github.com/ortegaalfredo/kscope) - HDD Resonance script
+* [elliptweet] (https://github.com/ortegaalfredo/elliptweet) - Tweet using GnuPG ECC public key crypto.
 * [Trape](https://github.com/boxug/trape) - People tracker on the Internet: Learn to track the world, to avoid being traced
 * [Panoptic](https://github.com/lightos/Panoptic) - It automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.
 * [DAWF](https://www.dragonjar.org/dawf-dragonjar-automatic-windows-forensic.xhtml) - Integra diferentes utilidades que permiten automatizar la extracción de evidencia forense en Windows
