@@ -44,6 +44,13 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [pev](https://github.com/merces/pev) - The PE file analysis toolkit
 * [bt2](https://github.com/blazeinfosec/bt2) - Telegram Backdoor Toolkit is a post-exploitation tool that leverages the infrastructure of Telegram as a C&C
 * [Rainmap Lite](https://github.com/cldrn/rainmap-lite) - Responsive web based interface that allows users to launch Nmap scans from their mobiles/tablets/web browsers!
+* [Domain Analyzer](https://github.com/eldraco/domain_analyzer) - Tool to find all possible info about a domain, also running other tools. (Herramienta para encontrar toda la info sobre un dominio, tambien ejecutando otras herramientas)
+* [BlueDriving](https://github.com/verovaleros/bluedriving) - Bluetooth wardriving utility. Follow people using bluetooth.
+* [WebCrawler](https://github.com/verovaleros/webcrawler) - A python console tool to automatically crawl a web site.
+* [dnmap](https://sourceforge.net/p/dnmap/wiki/Home/) - Distributed nmap tool. Distribute your scans with thousands of secure bots.
+* [The Infinite Web Page](https://github.com/eldraco/theinfinitewebpage) - A honeypot web server that returns an infinite webpage. Fill the disks of attackers.
+* [Salamandra](https://github.com/eldraco/Salamandra) - An FM/GSM spying microphone detection tool using SDR.
+
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
