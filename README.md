@@ -44,6 +44,8 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [pev](https://github.com/merces/pev) - The PE file analysis toolkit
 * [bt2](https://github.com/blazeinfosec/bt2) - Telegram Backdoor Toolkit is a post-exploitation tool that leverages the infrastructure of Telegram as a C&C
 * [Rainmap Lite](https://github.com/cldrn/rainmap-lite) - Responsive web based interface that allows users to launch Nmap scans from their mobiles/tablets/web browsers!
+* [ShellComm](https://github.com/HacKanCuBa/shellcomm-php) - A simple tool to communicate with a remote shell easily 
+* [RFID Zapper](https://github.com/envido32/rfid-zapper) - Quemador de chips RFID, como el que se encuentra en llaves de puertas electronicas, tarjetas de transporte público, pasaportes, boletas de voto electrónico, etc, sin dejar marcas visibles.
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
