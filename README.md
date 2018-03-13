@@ -19,6 +19,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [MagSpoofPI](https://github.com/salmg/MagSpoofPI) - MagSpoof for Raspberry PI GPIO
 * [CodexGigas](https://github.com/codexgigassys/) - CodexGigas malware DNA profiling search engine discovers malware patterns and characteristics. 
 * [CBM](https://github.com/UnaPibaGeek/CBM) - Car Backdoor Maker
+* [CTFR](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
 * [tracenet](https://github.com/alguien-gh/tracenet) - Network range discovery tool
 * [The Mole](https://github.com/tiankonguse/themole) - Automatic SQL Injection Exploitation Tool
 * [Hieroglyphy](https://github.com/alcuadrado/hieroglyphy) - Transform any javascript code to an equivalent sequence of ()[]{}!+ characters that runs in the browser
