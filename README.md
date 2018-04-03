@@ -53,6 +53,10 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [Salamandra](https://github.com/eldraco/Salamandra) - An FM/GSM spying microphone detection tool using SDR.
 * [ShellComm](https://github.com/HacKanCuBa/shellcomm-php) - A simple tool to communicate with a remote shell easily 
 * [RFID Zapper](https://github.com/envido32/rfid-zapper) - Quemador de chips RFID, como el que se encuentra en llaves de puertas electronicas, tarjetas de transporte público, pasaportes, boletas de voto electrónico, etc, sin dejar marcas visibles.
+* [pcapy](https://github.com/CoreSecurity/pcapy) - Pcapy is a Python extension module that interfaces with the libpcap packet capture library.
+* [pysap](https://github.com/CoreSecurity/pysap) - pysap is an open source Python library that provides modules for crafting and sending packets using SAP's NI, Diag, Enqueue, Router, Message Server, SNC and IGS protocols. In addition, support for creating and parsing different proprietary file formats is included.
+* [SAP plugin for Wireshark](https://github.com/CoreSecurity/SAP-Dissection-plug-in-for-Wireshark) - This Wireshark plugin provides dissection of SAP's NI, Message Server, Router, Diag, Enqueue, IGS and SNC protocols.
+
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
