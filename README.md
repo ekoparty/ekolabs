@@ -57,6 +57,9 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [pysap](https://github.com/CoreSecurity/pysap) - pysap is an open source Python library that provides modules for crafting and sending packets using SAP's NI, Diag, Enqueue, Router, Message Server, SNC and IGS protocols. In addition, support for creating and parsing different proprietary file formats is included.
 * [SAP plugin for Wireshark](https://github.com/CoreSecurity/SAP-Dissection-plug-in-for-Wireshark) - This Wireshark plugin provides dissection of SAP's NI, Message Server, Router, Diag, Enqueue, IGS and SNC protocols.
 * [433MHz Cloner](https://github.com/franc205/433MHz-Cloner) - Easily spoof 433MHz devices, such as, Car and Home Alarms, Door Bells, Panic Buttons, Garage Doors, and much more!
+* [SI6 Networks' IPv6 Toolkit](https://github.com/fgont/ipv6toolkit) - A security-assessment and trouble-shooting toolkit for IPv6 networks and implementations.
+* [SI6 Networks' IoT Toolkit](https://github.com/fgont/iot-toolkit) - A security-assessment and trouble-shooting toolkit for IoT devices and networks.
+* [DaaS](https://github.com/codexgigassys/daas) - DaaS is a multiplatform, remote and distributed system to decompile lots of samples with a single click.
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
